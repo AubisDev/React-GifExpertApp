@@ -2,7 +2,7 @@
   "name": "gif-expert-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AubisDev/React-GifExpertApp/settings/pages",
+  "homepage": "https://aubisdev.github.io/React-GifExpertApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
